@@ -1,5 +1,6 @@
 import os
 import random
+
 palavras = ['perfume', 'python', 'aleatorio', 'clima', 'trabalho']
 letras_acertadas = ''
 palavra_secretanumero_tentativas = 0
@@ -31,3 +32,4 @@ while True:
         print('Tentativas:', numero_tentativas)
         letras_acertadas = ''
         numero_tentativas = 0
+
