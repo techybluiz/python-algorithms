@@ -1,4 +1,3 @@
-import os
 import random
 
 palavras = ['perfume', 'python', 'aleatorio', 'clima', 'trabalho']
