@@ -1,8 +1,8 @@
-a , b = 1,2
+a , b = 1 , 2
 a, b = b , a
 
 pessoa = {
-    'nome': 'Aline',
+    'nome': 'Joana',
     'sobrenome': 'Souza',
 }
 
