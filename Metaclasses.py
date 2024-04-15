@@ -9,4 +9,4 @@ class Pessoa(object, metaclass=type): #object = herança
         print( 'Meu init')
         self.nome = nome
         
-p1 = Pessoa('Bia') 
+p1 = Pessoa('Bianca') 
