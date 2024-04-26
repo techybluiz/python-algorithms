@@ -12,4 +12,3 @@ def duplicar(numeros):
     print(triplicar(3))
     return numeros * 2
 print(duplicar(2))
-
